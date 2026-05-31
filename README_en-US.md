@@ -60,8 +60,6 @@ A simple teleportation plugin that supports **Folia**, compatible with **Bukkit/
 ### Others
 - **/back**  
   Teleport to the previous location.
-- **/rtp**  
-  Random teleportation.
 - **/tpa version**  
   Check for plugin updates.
 - **/tpa setlang <clear/language>**  
